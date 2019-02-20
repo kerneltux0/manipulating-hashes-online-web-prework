@@ -10,7 +10,7 @@ def second_challenge
   groceries.values.each do |food|
     array << value
   end
-    array.flatten!(1)
+  array.flatten!
   end
 
   
