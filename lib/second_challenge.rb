@@ -11,7 +11,6 @@ def second_challenge
     array << value
   end
   array.flatten!
-  end
 
   
 
